@@ -1,0 +1,35 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Alexander-Pushkin_59194
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Poushkin, Alexander
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    - Пушкин, Александр Сергеевич
+    - Pushkin, Alexander
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+    - http://www.museum.ru/Pushkin/
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Alexander Pushkin
+url: http://www.gutenberg.org/ebooks/59194
